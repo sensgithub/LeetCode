@@ -18,8 +18,10 @@ _If you like this project, please leave me a star._ &#9733;
  | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Oracle](../main/175-combine-two-tables/175-combine-two-tables.sql)                                                                 |Easy|                                                                        Oracle||
+ 
+ |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Oracle](../main/595-big-countries/595-big-countries.sql)                                                                 |Easy|                                                                        Oracle||
   
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
-
