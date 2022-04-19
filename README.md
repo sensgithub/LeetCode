@@ -5,6 +5,9 @@ _If you like this project, please leave me a star._ &#9733;
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 ## Algorithms
 
+ |  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](../main/1-two-sum/1-two-sum.py) |Easy|
 
 ## Database
 
