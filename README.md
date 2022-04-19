@@ -13,9 +13,13 @@ _If you like this project, please leave me a star._ &#9733;
 |-----|----------------|---------------|----------------------------
 |9|[Palindrom Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](../main/9-palindrome-number/9-palindrome-number.py) |Easy|
  
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Python 3](../main/17-letter-combinations-of-a-phone-number/17-letter-combinations-of-a-phone-number.py) |Medium|
+ 
 | #    |      Title     | Solutions                                                                                                                                     | Difficulty                     
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
-|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [Python 3](../main/2235-add-two-integers/2235-add-two-integers.py)                                                                 |Easy|                                                                        Oracle||
+|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [Python 3](../main/2235-add-two-integers/2235-add-two-integers.py)                                                                 |Easy|                                                                        Python 3||
 
 ## Database (MySQL/Oracle)
 
@@ -38,6 +42,4 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
- 
-
  
