@@ -8,8 +8,12 @@ _If you like this project, please leave me a star._ &#9733;
  |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python 3](../main/1-two-sum/1-two-sum.py) |Easy|
+ 
+  |  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|9|[Palindrom Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](../main/9-palindrome-number/9-palindrome-number.py) |Easy|
 
-## Database
+## Database (MySQL/Oracle)
 
  | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
@@ -18,3 +22,4 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
+
