@@ -27,7 +27,7 @@ _If you like this project, please leave me a star._ &#9733;
  
  |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
-|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](.. /main/1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql) |Easy| 
+|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](../main/1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql) |Easy| 
  
  
 |  #  |      Title     |   Solutions   | Difficulty               
