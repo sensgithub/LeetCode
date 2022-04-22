@@ -27,6 +27,10 @@ _If you like this project, please leave me a star._ &#9733;
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Oracle](../main/175-combine-two-tables/175-combine-two-tables.sql)                                                                 |Easy|                                                                        Oracle||
  
+ 
+  | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
+|511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [MySQL](../main/511-game-play-analysis-i/511-game-play-analysis-i.sqli)                                                                 |Easy|                                                                        Oracle||
 
  
   | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
