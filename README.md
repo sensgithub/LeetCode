@@ -33,17 +33,21 @@ _If you like this project, please leave me a star._ &#9733;
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [MySQL](../main/511-game-play-analysis-i/511-game-play-analysis-i.sqli)                                                                 |Easy|                                                                        Oracle||
 
  
-  | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
+| #    |      Title     | Solutions                                                                                                                                                                                                      | Difficulty                     
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Oracle](../main/595-big-countries/595-big-countries.sql)                                                                 |Easy|                                                                        Oracle||
  
- 
- |  #  |      Title     |   Solutions   | Difficulty               
+|  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
-|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](../main/1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql) |Easy| 
+|1581|Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[MySQL](../main/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |Easy| 
  
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[Oracle](../main/1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql) |Easy|
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
  
+1581. Customer Who Visited but Did Not Make Any Transactions
