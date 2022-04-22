@@ -39,6 +39,11 @@ _If you like this project, please leave me a star._ &#9733;
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
+|1148|Article Views I](https://leetcode.com/problems/article-views-i/)|[MySQL](../main/1148-article-views-i/1148-article-views-i.sql) |Easy| 
+ 
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
 |1581|Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[MySQL](../main/1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |Easy| 
  
  
@@ -49,5 +54,3 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
- 
-1581. Customer Who Visited but Did Not Make Any Transactions
