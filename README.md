@@ -86,6 +86,10 @@ _If you like this project, please leave me a star._ &#9733;
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
+|1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MySQL](../main/1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql) |Easy|
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
 
 |  #  |      Title     |   Solutions   | Difficulty               
