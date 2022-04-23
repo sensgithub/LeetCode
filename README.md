@@ -11,11 +11,19 @@ _If you like this project, please leave me a star._ &#9733;
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python 3](../main/3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py) |Medium|
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
 |9|[Palindrom Number](https://leetcode.com/problems/palindrome-number/)|[Python 3](../main/9-palindrome-number/9-palindrome-number.py) |Easy|
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Python 3](../main/17-letter-combinations-of-a-phone-number/17-letter-combinations-of-a-phone-number.py) |Medium|
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python 3](../main/535-encode-and-decode-tinyurl/535-encode-and-decode-tinyurl.py) |Medium|
  
 | #    |      Title     | Solutions                                                                                                                                     | Difficulty                     
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
@@ -28,14 +36,39 @@ _If you like this project, please leave me a star._ &#9733;
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Oracle](../main/175-combine-two-tables/175-combine-two-tables.sql)                                                                 |Easy|                                                                        Oracle||
  
  
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)| [MySQL](../main/184-department-highest-salary/184-department-highest-salary.sql) |Medium| 
+ 
+ 
+  | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [MySQL](../main/196-delete-duplicate-emails/196-delete-duplicate-emails.sql)                                                                 |Easy|                                                                        ||
+ 
+ | #    |      Title     | Solutions                                                                                                                                                                                                      | Difficulty                     
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [MySQL](../main/197-rising-temperature/197-rising-temperature.sql)                                                                 |Easy|                                                                        MySQL||
+
+ 
   | #    |      Title     | Solutions                                                                                                                                                                                                        | Difficulty                     
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)| [MySQL](../main/511-game-play-analysis-i/511-game-play-analysis-i.sqli)                                                                 |Easy|                                                                        Oracle||
 
  
-| #    |      Title     | Solutions                                                                                                                                                                                                      | Difficulty                     
+| #    |      Title     | Solutions | Difficulty                    
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Oracle](../main/595-big-countries/595-big-countries.sql)                                                                 |Easy|                                                                        Oracle||
+ 
+ 
+| #    |      Title     | Solutions | Difficulty                    
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
+|607|[Sales Person](https://leetcode.com/problems/sales-person/)| [Oracle](../main/607-sales-person/607-sales-person.sql)                                                                 |Easy|                                                                        MySQL||
+ 
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1141|[User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)| [MySQL](../main/1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql) |Easy| 
+ 
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
@@ -54,3 +87,7 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Oracle](../main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) |Easy|
+
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1890|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)|[MySQL](../main/1890-the-latest-login-in-2020/1890-the-latest-login-in-2020.sql) |Easy|
