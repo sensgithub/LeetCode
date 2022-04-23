@@ -57,6 +57,11 @@ _If you like this project, please leave me a star._ &#9733;
  
 | #    |      Title     | Solutions | Difficulty                    
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
+|586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)| [MySQL](../main/586-customer-placing-the-largest-number-of-orders/586-customer-placing-the-largest-number-of-orders.sql)                                                                 |Easy|                                                                        ||
+ 
+ 
+| #    |      Title     | Solutions | Difficulty                    
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Oracle](../main/595-big-countries/595-big-countries.sql)                                                                 |Easy|                                                                        Oracle||
  
  
