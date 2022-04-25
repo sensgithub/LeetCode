@@ -69,6 +69,10 @@ _If you like this project, please leave me a star._ &#9733;
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |607|[Sales Person](https://leetcode.com/problems/sales-person/)| [Oracle](../main/607-sales-person/607-sales-person.sql)                                                                 |Easy|                                                                        MySQL||
  
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)| [MySQL] |Easy|  
+ 
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
@@ -78,6 +82,14 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/)| [MySQL](../main/1148-article-views-i/1148-article-views-i.sql) |Easy| 
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)| [MySQL] (../main/1393-capital-gain-loss/1393-capital-gain-loss.sql) |Medium|   
+ 
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|1407|[Top Travellers](https://leetcode.com/problems/top-travellers/)| [MySQL] (../main/1407-top-travellers/1407-top-travellers.sql) |Easy|    
  
  
 |  #  |      Title     |   Solutions   | Difficulty               
