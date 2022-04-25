@@ -37,7 +37,7 @@ _If you like this project, please leave me a star._ &#9733;
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
-|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [MySQL] |Easy| 
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| MySQL |Easy| 
  
  
 |  #  |      Title     |   Solutions   | Difficulty               
@@ -89,11 +89,11 @@ _If you like this project, please leave me a star._ &#9733;
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
-|1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)| [MySQL] (../main/1393-capital-gain-loss/1393-capital-gain-loss.sql) |Medium|   
+|1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)| [MySQL](../main/1393-capital-gain-loss/1393-capital-gain-loss.sql) |Medium|   
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
-|1407|[Top Travellers](https://leetcode.com/problems/top-travellers/)| [MySQL] (../main/1407-top-travellers/1407-top-travellers.sql) |Easy|    
+|1407|[Top Travellers](https://leetcode.com/problems/top-travellers/)| [MySQL](../main/1407-top-travellers/1407-top-travellers.sql) |Easy|    
  
  
 |  #  |      Title     |   Solutions   | Difficulty               
