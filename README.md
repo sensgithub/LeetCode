@@ -35,6 +35,10 @@ _If you like this project, please leave me a star._ &#9733;
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Oracle](../main/175-combine-two-tables/175-combine-two-tables.sql)                                                                 |Easy|                                                                        Oracle||
  
+|  #  |      Title     |   Solutions   | Difficulty               
+|-----|----------------|---------------|----------------------------
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)| [MySQL] |Easy| 
+ 
  
 |  #  |      Title     |   Solutions   | Difficulty               
 |-----|----------------|---------------|----------------------------
